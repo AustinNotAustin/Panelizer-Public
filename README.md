@@ -1,8 +1,8 @@
 # Overview
 This is not a tool you can download and run, rather, it's a showcase of the UI work I've done in the past.
 
-You _can_, however, read through the .js I've written and take portions our.
-e.g. The snapping logic is intersting in [panel-array-class.js](class/item/panel-array-class.js)
+You _can_, however, read through the .js I've written and take portions out.
+e.g. The snapping logic is interesting in [panel-array-class.js](class/item/panel-array-class.js)
 
         //
         // Snapping
