@@ -51,7 +51,7 @@ e.g. The snapping logic is interesting in [panel-array-class.js](class/item/pane
 4. [Snapping is pretty cool, and I did some tricky things. It was a lot of trigonometry, I totally paid attention in school and didn't have to teach myself again on the fly](class/item/panel-array-class.js)
 ![tricky-snapping](https://github.com/user-attachments/assets/20456dbd-2ba4-4ae9-8ffc-20e2617a70b2)
 
-5. [All good projects need a save function. I got that](panelizer-save.js) [Also, you gotta load it](class/general/post-load-action.js)
+5. [All good projects need a save function. I got that](panelizer-save.js)
 ![save-to-file](https://github.com/user-attachments/assets/dd8a7066-b22b-4e38-84bb-accdb3280f75)
 
 6. [The UI is controlled by JS too, see the JS in class/gui/*](class/gui)
