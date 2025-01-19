@@ -71,22 +71,6 @@ class DupeArrow extends TapTool {
             // let radiansTopAndBot = angleTopAndBot * (Math.PI / 180);
 
             switch (this.dir) {
-                // case 'top':
-                //     degreeCenter = obj.degrees; // Set the direction bounds
-                //     additionalHeight = obj.panelHeight;
-                //     additionalWidth = 0;
-
-                //     newX = Math.cos(radiansTopAndBot) * (obj.panelHeight) * -1;
-                //     newY = Math.sin(radiansTopAndBot) * (obj.panelHeight) * -1;
-                //     break;
-                // case 'bottom':
-                //     degreeCenter = obj.degrees + 180; // Set the direction bounds
-                //     additionalHeight = obj.panelHeight;
-                //     additionalWidth = 0;
-
-                //     newX = Math.cos(radiansTopAndBot) * (obj.panelHeight);
-                //     newY = Math.sin(radiansTopAndBot) * (obj.panelHeight);
-                //     break;
                 case 'left':
                     degreeCenter = obj.degrees + 270; // Set the direction bounds
                     additionalHeight = 0;
