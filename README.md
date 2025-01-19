@@ -38,7 +38,7 @@ e.g. The snapping logic is intersting in panel-array-class.js
 
 # Showcase
 
-1. Google Maps Address Lookup API integration
+1. [Google Maps Address Lookup API integration](panelizer-google-maps.js)
 ![address-lookup](https://github.com/user-attachments/assets/e06ccdc1-b1dd-4292-b9c7-659219458c0f)
 
 2. 
